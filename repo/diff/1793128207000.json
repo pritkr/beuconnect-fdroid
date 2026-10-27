@@ -1,0 +1,24 @@
+{
+  "repo": {
+    "icon": {
+      "en-US": {
+        "sha256": "341db359e2832551f301690f222c80da69ae35f346a1fdbf2f17e171aab4d629",
+        "size": 17508
+      }
+    },
+    "timestamp": 1793128771000
+  },
+  "packages": {
+    "org.beuconnect.app": {
+      "metadata": {
+        "featureGraphic": {
+          "en-US": {
+            "name": "/org.beuconnect.app/en-US/featureGraphic_LUiWrjCPubOhtDjzwjboTzGc6biC_EjmyJVVfHo9Xsg=.png",
+            "sha256": "2d4896ae308fb9b3a1b438f3c236e84f319ce9b882fc48e6c895557c7a3d5ec8",
+            "size": 57963
+          }
+        }
+      }
+    }
+  }
+}

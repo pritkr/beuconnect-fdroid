@@ -1,0 +1,30 @@
+{
+  "antiFeatures": {},
+  "apksigner": "/Users/aashishpandey/Library/Android/sdk/build-tools/36.1.0/apksigner",
+  "archivePolicy0": [
+    "org.beuconnect.app"
+  ],
+  "commandLine": [
+    "/Users/aashishpandey/.local/bin/fdroid update",
+    "--pretty"
+  ],
+  "disabled": [],
+  "endTimestamp": 1793128774303,
+  "failedBuilds": {},
+  "jarsigner": "/Users/aashishpandey/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home/bin/jarsigner",
+  "keytool": "/Users/aashishpandey/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home/bin/keytool",
+  "needsUpdate": [],
+  "noPackages": [],
+  "noUpdateCheck": [],
+  "stages": {
+    "delete_disabled_builds": 1793128771239,
+    "index.make repo": 1793128771525,
+    "prepare_apps repo": 1793128771244,
+    "process_apks": 1793128771239,
+    "read_added_date_from_all_apks": 1793128771243,
+    "remove_apks": 1793128771243,
+    "scan_repo_files": 1793128771240
+  },
+  "startTimestamp": 1793108971000,
+  "subcommand": "update"
+}

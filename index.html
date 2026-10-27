@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BEUConnect — F-Droid repository</title>
+<meta name="theme-color" content="#0E0C0A">
+<link rel="icon" href="icon-180.png">
+<style>
+  :root {
+    color-scheme: dark;
+    --ink: #0E0C0A;
+    --card: #1A1714;
+    --fg: #F6F1EA;
+    --muted: #A2937F;
+    --ember: #FF7A4D;
+    --teal: #0E6B5C;
+    --line: #2A241E;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    padding: 40px 20px;
+    background:
+      radial-gradient(60ch 40ch at 15% 0%, #40200f 0%, transparent 70%),
+      var(--ink);
+    color: var(--fg);
+    font: 400 16px/1.5 ui-sans-serif, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main { width: 100%; max-width: 460px; }
+  header { display: flex; align-items: center; gap: 18px; margin-bottom: 32px; }
+  header img { width: 84px; height: 84px; border-radius: 20px; }
+  h1 {
+    margin: 0;
+    font: 700 34px/1.1 Georgia, "Times New Roman", serif;
+    letter-spacing: -0.01em;
+  }
+  .ver { margin: 6px 0 0; color: var(--muted); font-size: 14px; font-variant-numeric: tabular-nums; }
+  .actions { display: grid; gap: 10px; }
+  a.btn {
+    display: flex; align-items: center; justify-content: center; gap: 10px;
+    min-height: 52px; padding: 0 20px; border-radius: 14px;
+    background: var(--ember); color: #241008;
+    font-weight: 600; text-decoration: none;
+  }
+  a.btn.ghost { background: transparent; color: var(--fg); border: 1px solid var(--line); }
+  a.btn:hover { filter: brightness(1.06); }
+  a.btn.ghost:hover { border-color: var(--ember); filter: none; }
+  section { margin-top: 36px; }
+  h2 {
+    margin: 0 0 10px; font-size: 11px; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted);
+  }
+  code {
+    display: block; padding: 14px 16px; border-radius: 12px;
+    background: var(--card); border: 1px solid var(--line);
+    font: 400 12.5px/1.6 ui-monospace, SFMono-Regular, Menlo, monospace;
+    overflow-wrap: anywhere; color: #E9DFD3;
+  }
+  p { margin: 12px 0 0; color: var(--muted); font-size: 14px; }
+  a { color: var(--ember); }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <img src="icon-180.png" alt="" width="84" height="84">
+    <div>
+      <h1>BEUConnect</h1>
+      <p class="ver">1.1.0 · org.beuconnect.app</p>
+    </div>
+  </header>
+
+  <div class="actions">
+    <a class="btn" href="fdroidrepos://pritkr.github.io/beuconnect-fdroid/repo?fingerprint=7b3f3ecef7c6fcea99d3c634e8ea715e180ea88da32f572a62beac49ba8e698e">Add to F-Droid</a>
+    <a class="btn ghost" href="repo/org.beuconnect.app_2.apk">Download APK · 12 MB</a>
+  </div>
+
+  <section>
+    <h2>Repository</h2>
+    <code>https://pritkr.github.io/beuconnect-fdroid/repo</code>
+  </section>
+
+  <section>
+    <h2>Signing key</h2>
+    <code>7B:3F:3E:CE:F7:C6:FC:EA:99:D3:C6:34:E8:EA:71:5E:18:0E:A8:8D:A3:2F:57:2A:62:BE:AC:49:BA:8E:69:8E</code>
+    <p>Compare before installing. Updates continue over the existing app signature.</p>
+  </section>
+
+  <section>
+    <h2>Source</h2>
+    <p><a href="https://github.com/pritkr/beuConnect">github.com/pritkr/beuConnect</a> · AGPL-3.0</p>
+  </section>
+</main>
+</body>
+</html>

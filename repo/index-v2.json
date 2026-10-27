@@ -1,0 +1,143 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "BEUConnect"
+    },
+    "description": {
+      "en-US": "BEUConnect releases for Bihar Engineering University students: syllabus, previous year papers, results, rank, attendance, routine and notices."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "341db359e2832551f301690f222c80da69ae35f346a1fdbf2f17e171aab4d629",
+        "size": 17508
+      }
+    },
+    "address": "https://pritkr.github.io/beuconnect-fdroid/repo",
+    "timestamp": 1793128771000,
+    "categories": {
+      "Education": {
+        "name": {
+          "en-US": "Education"
+        }
+      }
+    }
+  },
+  "packages": {
+    "org.beuconnect.app": {
+      "metadata": {
+        "added": 1793128207000,
+        "categories": [
+          "Education"
+        ],
+        "changelog": "https://github.com/pritkr/beuConnect/releases",
+        "issueTracker": "https://github.com/pritkr/beuConnect/issues",
+        "lastUpdated": 1793128207000,
+        "license": "AGPL-3.0-or-later",
+        "sourceCode": "https://github.com/pritkr/beuConnect",
+        "webSite": "https://beu.prit.eu.org",
+        "featureGraphic": {
+          "en-US": {
+            "name": "/org.beuconnect.app/en-US/featureGraphic_LUiWrjCPubOhtDjzwjboTzGc6biC_EjmyJVVfHo9Xsg=.png",
+            "sha256": "2d4896ae308fb9b3a1b438f3c236e84f319ce9b882fc48e6c895557c7a3d5ec8",
+            "size": 57963
+          }
+        },
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/org.beuconnect.app/en-US/phoneScreenshots/1.png",
+                "sha256": "e9e61ad7bb924d91e628f4f2f3633288a6e92c25cb78e7ed0c565eb146ba3be8",
+                "size": 140258
+              },
+              {
+                "name": "/org.beuconnect.app/en-US/phoneScreenshots/2.png",
+                "sha256": "3a8641e9c6d5343c2492b0006ec84e8173cbe22b0dc888ba0a2498e7ae029b5a",
+                "size": 188764
+              },
+              {
+                "name": "/org.beuconnect.app/en-US/phoneScreenshots/3.png",
+                "sha256": "87ded94d9b26eb48d5d7ac809553f63eecb5444f9fee7cfc2088e44130fe8882",
+                "size": 130294
+              },
+              {
+                "name": "/org.beuconnect.app/en-US/phoneScreenshots/4.png",
+                "sha256": "48201809be63ef49e4eaa5c9add04f520629443a8a7a7362ae362142dbbf89a7",
+                "size": 138297
+              },
+              {
+                "name": "/org.beuconnect.app/en-US/phoneScreenshots/5.png",
+                "sha256": "76ce2d14053092592c1d895c4a97adad2c0a1ceb5b47ec0b600a8be11c07166e",
+                "size": 205630
+              },
+              {
+                "name": "/org.beuconnect.app/en-US/phoneScreenshots/6.png",
+                "sha256": "4c9a2df89833eb35801656ff52804768d5a33cf3e681ec771134e8dbed2aa8db",
+                "size": 203916
+              }
+            ]
+          }
+        },
+        "authorEmail": "pritkumarrrr@gmail.com",
+        "authorName": "Prit Kumar",
+        "name": {
+          "en-US": "BEUConnect"
+        },
+        "summary": {
+          "en-US": "Syllabus, PYQs, results, rank and attendance for BEU students"
+        },
+        "description": {
+          "en-US": "BEUConnect is a student app for Bihar Engineering University (BEU). It keeps\nthe syllabus, previous year papers, notes, notices and college rosters on the\ndevice, so most of it works without a connection.\n\nFeatures:\n* Syllabus for BEU branches and semesters, with topics, GATE papers and a\n  saved list.\n* Previous year papers with PDFs and a paper finder.\n* Results from BEU's JSON API, a saved copy, the published result tables, or\n  BEU's own result page.\n* University rank, merit list and a side-by-side result comparison.\n* Attendance tracker, SGPA calculator and predictor, routine and holiday\n  calendar.\n* Notes, planner, notices and search across the bundled data.\n* Students: published college and branch rosters and CGPA leaders.\n\nData and privacy:\nA registration number is stored on the device and sent only to BEU's result\nendpoints to resolve a name and result. No account is required and there are\nno ads or analytics. Feedback is sent only when you submit it.\n\nSource code: https://github.com/pritkr/beuConnect (AGPL-3.0-or-later).\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/org.beuconnect.app/en-US/icon_Fkmch1i1f4FZwT7uOSQ8ghyJgq-XOA8NyFwyT7zSW_Q=.png",
+            "sha256": "16499c8758b57f8159c13eee39243c821c8982af97380f0dc85c324fbcd25bf4",
+            "size": 15158
+          }
+        },
+        "preferredSigner": "7f6a14260ebc1fb7fd06cb34e5dcf49caa489674a268ff04bc72265596057076"
+      },
+      "versions": {
+        "e55086f3a20ad67de562fd2134629b796464fdd1d0798840307c65fce16ab0dc": {
+          "added": 1793128207000,
+          "file": {
+            "name": "/org.beuconnect.app_2.apk",
+            "sha256": "e55086f3a20ad67de562fd2134629b796464fdd1d0798840307c65fce16ab0dc",
+            "size": 12110647
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.1.0",
+            "versionCode": 2,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "7f6a14260ebc1fb7fd06cb34e5dcf49caa489674a268ff04bc72265596057076"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 28
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 28
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

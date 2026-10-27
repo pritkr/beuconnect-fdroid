@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="icon.png" name="BEUConnect" pubkey="3082052e30820316a003020102020900c90aa5a9a2ed84d4300d06092a864886f70d01010c05003044310b300906035504061302494e31133011060355040a130a424555436f6e6e6563743120301e06035504031317424555436f6e6e65637420462d44726f6964205265706f3020170d3236313032373138343834325a180f32303534303331343138343834325a3044310b300906035504061302494e31133011060355040a130a424555436f6e6e6563743120301e06035504031317424555436f6e6e65637420462d44726f6964205265706f30820222300d06092a864886f70d01010105000382020f003082020a0282020100d9c374aa2dabad36437cbc7909ce2a54ff14dd8ccf59c3d6649010905aa02ab59554df988f1ded5ad0478a611ed947de02624da336a88c6271a064a88b338554c54fbc5e68e69355986b87c0ff8b9a4e1028dfc39eb614d92f6b1b360408cff5cd4c7b9dd9acb30bb084bcbb92e43b60049659f44ff7f6d3bc3ad6fd295b46ff146da77f6f54c34b10d4df878e6f06c881642cab786e5ba07107fbd7db04d1d1620e27dc21cad7613396a225b1b4522e1da23ac5fa44f394474014ceff90c940802fcf76ff84bdb1ddf5dfa266d64ecf2e1fdd9b33c19e5fec58dd3a71627cdc3e13958cd77db74203233d0c5568f7b7512bc3e9130f91fae6d3bf3a7e4f41e3e721e37ab42e521921af21fe6b953f54bf2a032f256b6ca94ab57b6f8edd06ed4d1a8e8b21ff36abb655e1f435a0b44bbb010a10e7b9435e2beab451068cb9cc266aff9e54d50e54b09ee5c61da5905100c97179fbe0a1acd0685c771699ead3ea499646683cb458b8cb6e23f042556e2245918bdb0fb5cc75a7182a2946d8744eb1664d84e0d420ef86cb804922a6614fb3feb0aebc7c8d54b175cb95e73f6c68b81d9699c69534708259ec45c6b0c4cd6e455291c9d9a1dc755a6faae152f8950d04f290c69d2d14e630ff836c8f79ecef51006abc5ecf89e89b954b1417395fa7dcf4119b6bdd5b4126b341e4eb87b1e945770b73ce19062c5a07ea53c9f90203010001a321301f301d0603551d0e0416041454c17ae3078b1b3196a9b603f35dc6843dca35af300d06092a864886f70d01010c0500038202010064cf9788905b7a4e241ae28e1e00e6d4a4e8ae7c4fa89e84089c2e37db6f60cb6a9dcce353da5eacc6de5130540de1a0ab091a66d57e6994367e36906bf54b9d6ee23e24cd9acca0d8c4a7c2a34b9975238b68918eafe1aa19e173e06821c678eec9cc951d0f476c700a4cbf88c611e0994cd18c76d573f96715fb531b275223ad50a7be85e72564b76363654234d7cf88b4f06d1c6c54165f2b6897243d1a167e250891dd04ddaaf0371a3ffd7e67c9460b0a14e1c69450abc06af79da3ee819e5faf6f1f5057ebb3fb7105ffbfa8031d7d44321ec377121c9cdafb033f88133b257a06174e6e6aeedbd42a82cf4faf556798b25067057e0c0c496c271cc42dc2f5aa69c11596670668aee36d3c98de5ed958cc182a57e1426331083810d81f46718313435f3948df1771f3e0e1ef99c143fafc9bdb5a646f678ed52366ca0102d12f371656ff3300e1bbd1ac4681028701c4a2c36f7a03a55f2d38496afcb947e78701371636a73317b96bca768cd48842a31bfea33842220d351d2a22b288c9a6af053c98302feba9506d205816a77f12d85366cc94d8cca77c4b612c2a22f346f1a678ca1e1270152c463a7a2563122265a78d8b2e59bfc64c216b12a2dc0d8adf64ab7ae8ae90cc3b02f43bb86e08868595dbe5f4f2b1fd9f741c0811fc811d6f223d6b3f0d6c165d329c2d576f8ebf946641731ffd75a4503b4e1ee6d6" timestamp="1793128771" url="https://pritkr.github.io/beuconnect-fdroid/repo" version="20002">
+		<description>BEUConnect releases for Bihar Engineering University students: syllabus, previous year papers, results, rank, attendance, routine and notices.</description>
+	</repo>
+	<application id="org.beuconnect.app">
+		<id>org.beuconnect.app</id>
+		<added>2026-10-27</added>
+		<lastupdated>2026-10-27</lastupdated>
+		<name>BEUConnect</name>
+		<summary>Syllabus, PYQs, results, rank and attendance for BEU students</summary>
+		<icon>org.beuconnect.app.2.png</icon>
+		<desc>BEUConnect is a student app for Bihar Engineering University (BEU). It keeps
+the syllabus, previous year papers, notes, notices and college rosters on the
+device, so most of it works without a connection.
+
+Features:
+* Syllabus for BEU branches and semesters, with topics, GATE papers and a
+  saved list.
+* Previous year papers with PDFs and a paper finder.
+* Results from BEU's JSON API, a saved copy, the published result tables, or
+  BEU's own result page.
+* University rank, merit list and a side-by-side result comparison.
+* Attendance tracker, SGPA calculator and predictor, routine and holiday
+  calendar.
+* Notes, planner, notices and search across the bundled data.
+* Students: published college and branch rosters and CGPA leaders.
+
+Data and privacy:
+A registration number is stored on the device and sent only to BEU's result
+endpoints to resolve a name and result. No account is required and there are
+no ads or analytics. Feedback is sent only when you submit it.
+
+Source code: https://github.com/pritkr/beuConnect (AGPL-3.0-or-later).
+</desc>
+		<license>AGPL-3.0-or-later</license>
+		<categories>Education</categories>
+		<category>Education</category>
+		<web>https://beu.prit.eu.org</web>
+		<source>https://github.com/pritkr/beuConnect</source>
+		<tracker>https://github.com/pritkr/beuConnect/issues</tracker>
+		<changelog>https://github.com/pritkr/beuConnect/releases</changelog>
+		<author>Prit Kumar</author>
+		<email>pritkumarrrr@gmail.com</email>
+		<marketversion>1.1.0</marketversion>
+		<marketvercode>2</marketvercode>
+		<package>
+			<version>1.1.0</version>
+			<versioncode>2</versioncode>
+			<apkname>org.beuconnect.app_2.apk</apkname>
+			<hash type="sha256">e55086f3a20ad67de562fd2134629b796464fdd1d0798840307c65fce16ab0dc</hash>
+			<size>12110647</size>
+			<sdkver>28</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2026-10-27</added>
+			<sig>4b28bfd9ffd25eccb0b9872219663b89</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<uses-permission maxSdkVersion="28" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+	</application>
+</fdroid>

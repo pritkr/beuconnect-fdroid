@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1793129232000,
+    "timestamp": 1793130630000,
     "version": 20002,
     "name": "BEUConnect",
     "icon": "icon.png",
@@ -24,7 +24,7 @@
       "changelog": "https://github.com/pritkr/beuConnect/releases",
       "suggestedVersionName": "1.1.0",
       "suggestedVersionCode": "2",
-      "description": "BEUConnect is a student app for Bihar Engineering University (BEU). It keeps\nthe syllabus, previous year papers, notes, notices and college rosters on the\ndevice, so most of it works without a connection.\n\nFeatures:\n* Syllabus for BEU branches and semesters, with topics, GATE papers and a saved list.\n* Previous year papers with PDFs and a paper finder.\n* Results from BEU's result API, a saved copy, the published result tables, or BEU's own result page.\n* University rank, merit list and a side-by-side result comparison.\n* Attendance tracker, SGPA calculator and predictor, routine and holiday calendar.\n* Notes, planner, notices and search across the bundled data.\n* Published college and branch rosters and CGPA leaders.\n\nData and privacy:\nA registration number is stored on the device and sent only to BEU's result\nendpoints to resolve a name and result. No account is required and there are\nno ads or analytics. Feedback is sent only when you submit it.\n\nSource code: https://github.com/pritkr/beuConnect (AGPL-3.0-or-later).\n",
+      "description": "BEUConnect is a student app for Bihar Engineering University (BEU). The syllabus, previous year papers, notes, notices and college rosters live on the device, so most of it works without a connection.\n\nFeatures:\n* Syllabus for BEU branches and semesters, with topics, GATE papers and a saved list.\n* Previous year papers with PDFs and a paper finder.\n* Results from BEU's result API, a saved copy, the published result tables, or BEU's own result page.\n* University rank, merit list and a side-by-side result comparison.\n* Attendance tracker, SGPA calculator and predictor, routine and holiday calendar.\n* Notes, planner, notices and search across the bundled data.\n* Published college and branch rosters and CGPA leaders.\n\nData and privacy: a registration number is stored on the device and sent only to BEU's result endpoints to resolve a name and result. No account is required, and there are no ads or analytics. Feedback is sent only when you submit it.\n\nSource code: https://github.com/pritkr/beuConnect (AGPL-3.0-or-later).\n",
       "issueTracker": "https://github.com/pritkr/beuConnect/issues",
       "license": "AGPL-3.0-or-later",
       "sourceCode": "https://github.com/pritkr/beuConnect",
@@ -36,7 +36,7 @@
       "lastUpdated": 1793128207000,
       "localized": {
         "en-US": {
-          "featureGraphic": "featureGraphic_LUiWrjCPubOhtDjzwjboTzGc6biC_EjmyJVVfHo9Xsg=.png",
+          "featureGraphic": "featureGraphic_AhFl3kXPfV6t5euc3z8j1AcHgZENq5gnmEFlte3BJBA=.png",
           "icon": "icon_Fkmch1i1f4FZwT7uOSQ8ghyJgq-XOA8NyFwyT7zSW_Q=.png",
           "name": "BEUConnect",
           "phoneScreenshots": [

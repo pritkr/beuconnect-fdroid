@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1793160197000,
+    "timestamp": 1793178208000,
     "version": 20002,
     "name": "BEUConnect",
     "icon": "icon.png",
@@ -22,18 +22,18 @@
         "Science & Education"
       ],
       "changelog": "https://github.com/pritkr/beuConnect/releases",
-      "suggestedVersionName": "1.1.2",
-      "suggestedVersionCode": "4",
+      "suggestedVersionName": "1.1.3",
+      "suggestedVersionCode": "5",
       "description": "BEUConnect is a student app for Bihar Engineering University (BEU). The syllabus, previous year papers, notes, notices and college rosters live on the device, so most of it works without a connection.\n\nFeatures:\n* Syllabus for BEU branches and semesters, with topics, GATE papers and a saved list.\n* Previous year papers with PDFs and a paper finder.\n* Results from BEU's result API, a saved copy, the published result tables, or BEU's own result page.\n* University rank, merit list and a side-by-side result comparison.\n* Attendance tracker, SGPA calculator and predictor, routine and holiday calendar.\n* Notes, planner, notices and search across the bundled data.\n* Published college and branch rosters and CGPA leaders.\n\nData and privacy: a registration number is stored on the device and sent only to BEU's result endpoints to resolve a name and result. No account is required, and there are no ads or analytics. Feedback is sent only when you submit it.\n\nSource code: https://github.com/pritkr/beuConnect (AGPL-3.0-or-later).\n",
       "issueTracker": "https://github.com/pritkr/beuConnect/issues",
       "license": "AGPL-3.0-or-later",
       "sourceCode": "https://github.com/pritkr/beuConnect",
       "summary": "Syllabus, PYQs, results, rank and attendance for BEU students",
       "webSite": "https://beu.prit.eu.org",
-      "added": 1793160196000,
-      "icon": "org.beuconnect.app.4.png",
+      "added": 1793178207000,
+      "icon": "org.beuconnect.app.5.png",
       "packageName": "org.beuconnect.app",
-      "lastUpdated": 1793160196000,
+      "lastUpdated": 1793178207000,
       "localized": {
         "en-US": {
           "featureGraphic": "featureGraphic_AhFl3kXPfV6t5euc3z8j1AcHgZENq5gnmEFlte3BJBA=.png",
@@ -54,9 +54,9 @@
   "packages": {
     "org.beuconnect.app": [
       {
-        "added": 1793160196000,
-        "apkName": "org.beuconnect.app_4.apk",
-        "hash": "18dfdef21e440ee87ca62b5dedf17afd15a5d5de291fc1b57278c4556e8479c7",
+        "added": 1793178207000,
+        "apkName": "org.beuconnect.app_5.apk",
+        "hash": "72b9b7a5fba32c0113d9acc151bfbfa5a0e5dcc5f4a7c435d99d9d8ec149a710",
         "hashType": "sha256",
         "minSdkVersion": 28,
         "nativecode": [
@@ -65,7 +65,7 @@
         "packageName": "org.beuconnect.app",
         "sig": "4b28bfd9ffd25eccb0b9872219663b89",
         "signer": "7f6a14260ebc1fb7fd06cb34e5dcf49caa489674a268ff04bc72265596057076",
-        "size": 12090167,
+        "size": 12094263,
         "targetSdkVersion": 36,
         "uses-permission": [
           [
@@ -81,8 +81,8 @@
             28
           ]
         ],
-        "versionCode": 4,
-        "versionName": "1.1.2"
+        "versionCode": 5,
+        "versionName": "1.1.3"
       }
     ]
   }

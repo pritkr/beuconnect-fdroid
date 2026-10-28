@@ -14,7 +14,7 @@
       }
     },
     "address": "https://pritkr.github.io/beuconnect-fdroid/repo",
-    "timestamp": 1793160197000,
+    "timestamp": 1793178208000,
     "categories": {
       "Science & Education": {
         "name": {
@@ -26,13 +26,13 @@
   "packages": {
     "org.beuconnect.app": {
       "metadata": {
-        "added": 1793160196000,
+        "added": 1793178207000,
         "categories": [
           "Science & Education"
         ],
         "changelog": "https://github.com/pritkr/beuConnect/releases",
         "issueTracker": "https://github.com/pritkr/beuConnect/issues",
-        "lastUpdated": 1793160196000,
+        "lastUpdated": 1793178207000,
         "license": "AGPL-3.0-or-later",
         "sourceCode": "https://github.com/pritkr/beuConnect",
         "webSite": "https://beu.prit.eu.org",
@@ -100,19 +100,19 @@
         "preferredSigner": "7f6a14260ebc1fb7fd06cb34e5dcf49caa489674a268ff04bc72265596057076"
       },
       "versions": {
-        "18dfdef21e440ee87ca62b5dedf17afd15a5d5de291fc1b57278c4556e8479c7": {
-          "added": 1793160196000,
+        "72b9b7a5fba32c0113d9acc151bfbfa5a0e5dcc5f4a7c435d99d9d8ec149a710": {
+          "added": 1793178207000,
           "file": {
-            "name": "/org.beuconnect.app_4.apk",
-            "sha256": "18dfdef21e440ee87ca62b5dedf17afd15a5d5de291fc1b57278c4556e8479c7",
-            "size": 12090167
+            "name": "/org.beuconnect.app_5.apk",
+            "sha256": "72b9b7a5fba32c0113d9acc151bfbfa5a0e5dcc5f4a7c435d99d9d8ec149a710",
+            "size": 12094263
           },
           "manifest": {
             "nativecode": [
               "arm64-v8a"
             ],
-            "versionName": "1.1.2",
-            "versionCode": 4,
+            "versionName": "1.1.3",
+            "versionCode": 5,
             "usesSdk": {
               "minSdkVersion": 28,
               "targetSdkVersion": 36

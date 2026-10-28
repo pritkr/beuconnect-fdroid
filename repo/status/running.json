@@ -6,10 +6,11 @@
   ],
   "commandLine": [
     "/Users/aashishpandey/.local/bin/fdroid update",
+    "--clean",
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1793130634746,
+  "endTimestamp": 1793160200078,
   "failedBuilds": {},
   "jarsigner": "/Users/aashishpandey/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home/bin/jarsigner",
   "keytool": "/Users/aashishpandey/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home/bin/keytool",
@@ -17,14 +18,14 @@
   "noPackages": [],
   "noUpdateCheck": [],
   "stages": {
-    "delete_disabled_builds": 1793130630290,
-    "index.make repo": 1793130630570,
-    "prepare_apps repo": 1793130630292,
-    "process_apks": 1793130630290,
-    "read_added_date_from_all_apks": 1793130630292,
-    "remove_apks": 1793130630291,
-    "scan_repo_files": 1793130630290
+    "delete_disabled_builds": 1793160195908,
+    "index.make repo": 1793160197503,
+    "prepare_apps repo": 1793160196295,
+    "process_apks": 1793160195908,
+    "read_added_date_from_all_apks": 1793160196295,
+    "remove_apks": 1793160196295,
+    "scan_repo_files": 1793160196294
   },
-  "startTimestamp": 1793110830000,
+  "startTimestamp": 1793140395000,
   "subcommand": "update"
 }
